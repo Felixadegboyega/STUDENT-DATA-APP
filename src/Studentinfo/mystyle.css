@@ -1,0 +1,26 @@
+/* p{
+	background-color: red;
+	padding:10px;
+	color:#fff;
+} */
+.userNav{
+	/* height:80vh !important; */
+	max-height:90vh !important;	
+	overflow: auto;
+
+	/* max-width:200px; */
+}
+.form-control{
+	box-shadow: none !important;
+}
+/* .form-control:focus{
+	border-bottom: 10px blue !important;
+} */
+.userNav::-webkit-scrollbar{
+	width: 7px;
+	
+}
+.maincont{
+	max-height:90vh !important;
+	overflow-y: auto;
+}
